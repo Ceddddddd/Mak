@@ -1,0 +1,13 @@
+C:\Users\63912\source\repos\mak\bin\Debug\mak.exe.config
+C:\Users\63912\source\repos\mak\bin\Debug\mak.exe
+C:\Users\63912\source\repos\mak\bin\Debug\mak.pdb
+C:\Users\63912\source\repos\mak\obj\Debug\mak.csproj.AssemblyReference.cache
+C:\Users\63912\source\repos\mak\obj\Debug\mak.csproj.SuggestedBindingRedirects.cache
+C:\Users\63912\source\repos\mak\obj\Debug\mak.Form1.resources
+C:\Users\63912\source\repos\mak\obj\Debug\mak.Properties.Resources.resources
+C:\Users\63912\source\repos\mak\obj\Debug\mak.csproj.GenerateResource.cache
+C:\Users\63912\source\repos\mak\obj\Debug\mak.csproj.CoreCompileInputs.cache
+C:\Users\63912\source\repos\mak\obj\Debug\mak.exe
+C:\Users\63912\source\repos\mak\obj\Debug\mak.pdb
+C:\Users\63912\source\repos\mak\obj\Debug\mak.Form2.resources
+C:\Users\63912\source\repos\mak\obj\Debug\mak.Form3.resources
