@@ -1,0 +1,12 @@
+C:\Users\63912\source\repos\Leilanie\bin\Debug\Leilanie.exe.config
+C:\Users\63912\source\repos\Leilanie\bin\Debug\Leilanie.exe
+C:\Users\63912\source\repos\Leilanie\bin\Debug\Leilanie.pdb
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.csproj.AssemblyReference.cache
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.Form1.resources
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.Properties.Resources.resources
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.csproj.GenerateResource.cache
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.csproj.CoreCompileInputs.cache
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.exe
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.pdb
+C:\Users\63912\source\repos\Leilanie\obj\Debug\Leilanie.Form2.resources
